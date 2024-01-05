@@ -248,7 +248,7 @@ canvas {
  position: relative;
  z-index: 778;
 }
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1100px) {
  #nav {
   height: 65px;
   width: 100%;
